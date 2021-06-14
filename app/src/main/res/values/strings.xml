@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">El Columpio</string>
+    <string name="logo">logo</string>
+    <string name="text_menu_carrito">Carrito</string>
+    <string name="text_menu_Iniciar_Sesion">Iniciar Sesion</string>
+    <string name="text_menu_Contactus">Contactanos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_title">Social Media</string>
+</resources>

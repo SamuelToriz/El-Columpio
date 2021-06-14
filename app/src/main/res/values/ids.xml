@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txvtitle" type="id">Titulo</item>
+    <item name="imageView" type="id">fb</item>
+    <item name="txvTitle" type="id">Title</item>
+</resources>

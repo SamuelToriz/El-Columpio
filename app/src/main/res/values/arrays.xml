@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="CardType">
+        <item>Seleccionar</item>
+        <item>Mastercard</item>
+        <item>Visa</item>
+        <item>American Express</item>
+    </string-array>
+
+    <string-array name="TipoPedido">
+        <item>Seleccionar</item>
+        <item>Delivery</item>
+        <item>Pick Up</item>
+    </string-array>
+
+</resources>
